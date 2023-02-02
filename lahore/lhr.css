@@ -23,8 +23,9 @@ header{
 }
 
 .teampic{
-    width: 1280px;
+    width: 1250px;
     height: 800px;
+    margin: 25px;
 }
 
 header{
@@ -49,13 +50,13 @@ header{
 table
 {    margin: 25px;
     font-size: 18px;
-    width: 1000px;
+    width: 1250px;
     font-family: 'Itim', cursive;
 
 }
 th,td{
     border: 1px solid black;
-    padding: 10px;
+    padding: 10px 10px 10px 50px;
     border-radius: 5px;
 
 }
