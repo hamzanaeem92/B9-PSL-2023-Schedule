@@ -1,0 +1,57 @@
+.logo{
+    margin-left: 3em;
+}
+.navbar li a{
+    padding: 2px ;
+    text-decoration: none; 
+    color: rgb(245, 241, 241);
+    /* border: 2px solid; */
+    border-radius: 5px;
+    margin: 3px;
+    background-color: green;
+
+}
+.teampic{
+    width: 1280px;
+    height: 800px;
+}
+
+header{
+    display: flex;
+    justify-content: center;}
+
+
+.navbar nav ul
+{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    /* border: 2px solid; */
+    padding: 10px;
+    margin-right: 25px;
+    font-size: 20px; 
+    /* border-radius: 5px; */
+    /* background-color: rgb(30, 97, 3); */
+    font-weight: bolder;
+}
+table
+{    margin: 25px;
+    font-size: 18px;
+    width: 1000px;
+    font-family: 'Itim', cursive;
+
+}
+th,td{
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 5px;
+
+}
+th{
+    color: rgb(23, 99, 23);
+    font-size: 30px;
+    font-weight: bolder;
+}
+.bold{
+    font-weight: bold;
+}

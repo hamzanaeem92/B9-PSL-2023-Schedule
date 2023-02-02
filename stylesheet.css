@@ -1,0 +1,63 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+</style>
+
+body{
+    margin: 0px;
+    padding: 0px;
+ }
+ header{
+    display: flex;
+    justify-content: space-between; 
+    /* border: 2px solid black; */
+}
+header .logo{
+    margin-left: 3em;
+}
+.navbar li a{
+    padding: 2px ;
+    text-decoration: none; 
+    color: rgb(245, 241, 241);
+    /* border: 2px solid; */
+    border-radius: 5px;
+    margin: 3px;
+    background-color: green;
+
+}
+
+
+.navbar nav ul
+{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    /* border: 2px solid; */
+    padding: 10px;
+    margin-right: 25px;
+    font-size: 20px; 
+    /* border-radius: 5px; */
+    /* background-color: rgb(30, 97, 3); */
+    font-weight: bolder;
+}
+
+
+.image{
+    height: 600px;
+    width: 900px;
+} 
+H1{
+
+
+    font-family: 'Itim', cursive;
+    
+}
+p{
+    font-size: 1.2em;
+    font-family: 'Itim', cursive;
+    color: rgb(0, 87, 6);
+}
+.teams{
+    font-size: 1.5em;
+    color: rgb(0, 87, 6);
+    list-style: square;
+}
